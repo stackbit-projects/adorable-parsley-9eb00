@@ -440,7 +440,7 @@ models:
         label: Seo
   advanced:
     type: page
-    label: Advanced page
+    label: Advanced pages
     layout: advanced
     hideContent: true
     fields:
