@@ -339,7 +339,7 @@ models:
         description: The title of the tag
   page:
     type: page
-    label: Page
+    label: Pages
     layout: page
     exclude:
       - blog/**/*
